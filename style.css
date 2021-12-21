@@ -1,4 +1,5 @@
 
+/* common property  */
 *{
     box-sizing: border-box;
 }
@@ -96,6 +97,22 @@ header div{
     text-align: center;
     text-transform: uppercase;
 }
+
+#product .row .card{
+    margin-bottom: 4%;
+}
+
+/* company information */
+#company_information{
+    margin-bottom: 8%;
+}
+#company_information i{
+    font-size: 4rem;
+    color: #017dc3;
+    margin-left:36%;
+    margin-bottom:12%;
+}
+
 
 /*footer*/
 footer{
