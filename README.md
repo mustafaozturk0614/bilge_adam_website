@@ -1,8 +1,6 @@
 # bilge_adam_website
-html5
-css3 
-js 
-jquery
-bootsrap
-responsive
-
+Html5
+Css3
+Js
+jQuery
+Responsive
